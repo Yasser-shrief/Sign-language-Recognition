@@ -6,6 +6,8 @@ The original MNIST image dataset of handwritten digits is a popular benchmark fo
 
 **Each letter indicates a sign produced by our fingers. We will apply deep learning to these images to make sure our model can understand what sign indicated what letter**
 
+Designed a model with accurecy 100% , 10 ephocs `(One Epoch is when an ENTIRE dataset is passed forward and backward through the neural network)`
+
 
 **Download Data** : [Here](https://www.kaggle.com/datamunge/sign-language-mnist)
 
